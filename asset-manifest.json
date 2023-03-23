@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.02e18b3c.css",
-    "main.js": "/static/js/main.9a626eb3.js",
+    "main.js": "/static/js/main.754094b8.js",
     "static/js/787.24fb1bfc.chunk.js": "/static/js/787.24fb1bfc.chunk.js",
     "static/media/sonu.png": "/static/media/sonu.d7b426ad314db61e11a9.png",
     "static/media/vscode.png": "/static/media/vscode.9bc6e588b5f2b867a8a4.png",
@@ -23,11 +23,11 @@
     "static/media/mongodb-seeklogo.com.svg": "/static/media/mongodb-seeklogo.com.1aca075d5cce0819fea7ea0902d94ce4.svg",
     "static/media/npm.876.svg": "/static/media/npm.876.87689eab730642c86d2b01f3ef4a19e3.svg",
     "main.02e18b3c.css.map": "/static/css/main.02e18b3c.css.map",
-    "main.9a626eb3.js.map": "/static/js/main.9a626eb3.js.map",
+    "main.754094b8.js.map": "/static/js/main.754094b8.js.map",
     "787.24fb1bfc.chunk.js.map": "/static/js/787.24fb1bfc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02e18b3c.css",
-    "static/js/main.9a626eb3.js"
+    "static/js/main.754094b8.js"
   ]
 }
